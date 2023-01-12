@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Full Stack Web Development   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ As me about anything related to MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
