@@ -71,7 +71,10 @@
 <br/>  
 
 
-<!-- ## Github Stats -->
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amitmishra7488&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
+## Github Stats 
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amitmishra7488&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
 
 
