@@ -73,8 +73,17 @@
 
 ## Github Stats 
 
-<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amitmishra7488&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <div style="display: flex; gap:5px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmishra7488&" style="vertical-align: top;" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amitmishra7488&show_icons=true&count_private=true&hide_border=true" />
+  </div>
+</div>
+
+<!-- <div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amitmishra7488&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <br/>
+
+<!-- <div align="center" style="margin:auto;"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amitmishra7488&show_icons=true&locale=en&layout=compact" alt="amitmishra7488" /></div> -->
 
 
