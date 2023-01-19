@@ -5,7 +5,12 @@
 
 ### <div align="center">I'm Amit, a  Full Stack Web  Developer 💡  I like to explore new technologies and develop software solutions and quick hacks.</div>  
   
+<br/>
 
+<div align="left">
+    <img src="https://komarev.com/ghpvc/?username=amitmishra7488&color=brightgreen" style="vertical-align: top;" />
+</div>
+</br>
 - 🌱 I’m currently learning Full Stack Web Development   
   
 
