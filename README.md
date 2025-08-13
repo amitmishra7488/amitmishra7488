@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
   <a href="https://amitk-portfolio.vercel.app/">
-    <img src="https://i.postimg.cc/rF7Lm4KC/profile-banner.png" width="90%" alt="Amit Kumar - Profile Banner" />
+    <img src="https://i.postimg.cc/rF7Lm4KC/profile-banner.png" width="100%" alt="Amit Kumar - Profile Banner" />
   </a>
 </div>
 
